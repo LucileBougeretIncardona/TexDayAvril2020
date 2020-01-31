@@ -1,9 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <PermissionSet xmlns="http://soap.sforce.com/2006/04/metadata">
-    <applicationVisibilities>
-        <application>Eurapharma_CRM</application>
-        <visible>true</visible>
-    </applicationVisibilities>
     <description>Permission Set for System Administrator</description>
     <hasActivationRequired>false</hasActivationRequired>
     <label>System Administrator</label>
