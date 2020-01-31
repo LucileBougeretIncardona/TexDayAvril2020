@@ -1,0 +1,252 @@
+[
+    [
+        "/Users/lucileincardona/Documents/TexDay/TexDay 202004/TexDayAvril2020/force-app",
+        {
+            "sourcePath": "/Users/lucileincardona/Documents/TexDay/TexDay 202004/TexDayAvril2020/force-app",
+            "isDirectory": true,
+            "size": 96,
+            "modifiedTime": 1580469675000,
+            "changeTime": 1580469675706,
+            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isMetadataFile": false,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "/Users/lucileincardona/Documents/TexDay/TexDay 202004/TexDayAvril2020/force-app/main",
+        {
+            "sourcePath": "/Users/lucileincardona/Documents/TexDay/TexDay 202004/TexDayAvril2020/force-app/main",
+            "isDirectory": true,
+            "size": 96,
+            "modifiedTime": 1580469675000,
+            "changeTime": 1580469675708,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isMetadataFile": false,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/lucileincardona/Documents/TexDay/TexDay 202004/TexDayAvril2020/force-app/main/default",
+        {
+            "state": "u",
+            "sourcePath": "/Users/lucileincardona/Documents/TexDay/TexDay 202004/TexDayAvril2020/force-app/main/default",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 288,
+            "modifiedTime": 1580470212959,
+            "changeTime": 1580470212959,
+            "contentHash": "6a069aacf5c10adc5e8b079ae06fc02798ce3022"
+        }
+    ],
+    [
+        "/Users/lucileincardona/Documents/TexDay/TexDay 202004/TexDayAvril2020/force-app/main/default/aura",
+        {
+            "sourcePath": "/Users/lucileincardona/Documents/TexDay/TexDay 202004/TexDayAvril2020/force-app/main/default/aura",
+            "isDirectory": true,
+            "size": 64,
+            "modifiedTime": 1580469299000,
+            "changeTime": 1580469299935,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isMetadataFile": false,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/lucileincardona/Documents/TexDay/TexDay 202004/TexDayAvril2020/force-app/main/default/lwc",
+        {
+            "sourcePath": "/Users/lucileincardona/Documents/TexDay/TexDay 202004/TexDayAvril2020/force-app/main/default/lwc",
+            "isDirectory": true,
+            "size": 128,
+            "modifiedTime": 1580469311000,
+            "changeTime": 1580469311121,
+            "contentHash": "a973ac1b5be0e216b2a2db1b82ae5ba97f4086f4",
+            "isMetadataFile": false,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/lucileincardona/Documents/TexDay/TexDay 202004/TexDayAvril2020/force-app/main/default/permissionsets",
+        {
+            "sourcePath": "/Users/lucileincardona/Documents/TexDay/TexDay 202004/TexDayAvril2020/force-app/main/default/permissionsets",
+            "isDirectory": true,
+            "size": 128,
+            "modifiedTime": 1580469675000,
+            "changeTime": 1580469675711,
+            "contentHash": "c70bbefc3e1ead13d1fe492eaccfdba8083b11a5",
+            "isMetadataFile": false,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/lucileincardona/Documents/TexDay/TexDay 202004/TexDayAvril2020/force-app/main/default/permissionsets/Manage_Customer_User.permissionset-meta.xml",
+        {
+            "sourcePath": "/Users/lucileincardona/Documents/TexDay/TexDay 202004/TexDayAvril2020/force-app/main/default/permissionsets/Manage_Customer_User.permissionset-meta.xml",
+            "isDirectory": false,
+            "size": 764,
+            "modifiedTime": 1580469672890,
+            "changeTime": 1580469673656,
+            "contentHash": "45d6862116f179af746cf431bb0811af7745562c",
+            "isMetadataFile": true,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/lucileincardona/Documents/TexDay/TexDay 202004/TexDayAvril2020/force-app/main/default/permissionsets/System_Administrator.permissionset-meta.xml",
+        {
+            "sourcePath": "/Users/lucileincardona/Documents/TexDay/TexDay 202004/TexDayAvril2020/force-app/main/default/permissionsets/System_Administrator.permissionset-meta.xml",
+            "isDirectory": false,
+            "size": 431,
+            "modifiedTime": 1580469672892,
+            "changeTime": 1580469673665,
+            "contentHash": "d0a6eaa746361a3724773e5b6fefe931ae4900c9",
+            "isMetadataFile": true,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/lucileincardona/Documents/TexDay/TexDay 202004/TexDayAvril2020",
+        {
+            "sourcePath": "/Users/lucileincardona/Documents/TexDay/TexDay 202004/TexDayAvril2020",
+            "isDirectory": true,
+            "size": 352,
+            "modifiedTime": 1580469849000,
+            "changeTime": 1580469850691,
+            "contentHash": "612ff50963fd7514fd1f5c54d07ea11f2a9a7281",
+            "isMetadataFile": false,
+            "state": "n",
+            "isWorkspace": true,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/lucileincardona/Documents/TexDay/TexDay 202004/TexDayAvril2020/force-app/main/default/flexipages/TexDay_HVS_UtilityBar.flexipage-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/lucileincardona/Documents/TexDay/TexDay 202004/TexDayAvril2020/force-app/main/default/flexipages/TexDay_HVS_UtilityBar.flexipage-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 505,
+            "modifiedTime": 1580470212951,
+            "changeTime": 1580470212951,
+            "contentHash": "a90646e421cd4a4f94c518b6e9c64cf5e84363aa"
+        }
+    ],
+    [
+        "/Users/lucileincardona/Documents/TexDay/TexDay 202004/TexDayAvril2020/force-app/main/default/applications/TexDay_HVS.app-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/lucileincardona/Documents/TexDay/TexDay 202004/TexDayAvril2020/force-app/main/default/applications/TexDay_HVS.app-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 813,
+            "modifiedTime": 1580470212953,
+            "changeTime": 1580470212953,
+            "contentHash": "70ca3010b687063902ebe8be7bc5da8e2d7a5db0"
+        }
+    ],
+    [
+        "/Users/lucileincardona/Documents/TexDay/TexDay 202004/TexDayAvril2020/force-app/main/default/contentassets/Texei_Logo.asset-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/lucileincardona/Documents/TexDay/TexDay 202004/TexDayAvril2020/force-app/main/default/contentassets/Texei_Logo.asset-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 533,
+            "modifiedTime": 1580470212955,
+            "changeTime": 1580470212955,
+            "contentHash": "56f2031ddf85a175c836d7a2ddc0ef421187618d"
+        }
+    ],
+    [
+        "/Users/lucileincardona/Documents/TexDay/TexDay 202004/TexDayAvril2020/force-app/main/default/contentassets/Texei_Logo.asset",
+        {
+            "state": "u",
+            "sourcePath": "/Users/lucileincardona/Documents/TexDay/TexDay 202004/TexDayAvril2020/force-app/main/default/contentassets/Texei_Logo.asset",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 15263,
+            "modifiedTime": 1580470212957,
+            "changeTime": 1580470212957,
+            "contentHash": "01b25b7848953c1d5832886b6b8c46fc8f1fe721"
+        }
+    ],
+    [
+        "/Users/lucileincardona/Documents/TexDay/TexDay 202004/TexDayAvril2020/force-app/main/default/appMenus/AppSwitcher.appMenu-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/lucileincardona/Documents/TexDay/TexDay 202004/TexDayAvril2020/force-app/main/default/appMenus/AppSwitcher.appMenu-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 2110,
+            "modifiedTime": 1580470212959,
+            "changeTime": 1580470212959,
+            "contentHash": "39cd84e7854138fcc23d102029dca03e8b6fdf4f"
+        }
+    ],
+    [
+        "/Users/lucileincardona/Documents/TexDay/TexDay 202004/TexDayAvril2020/force-app/main/default/flexipages",
+        {
+            "state": "u",
+            "sourcePath": "/Users/lucileincardona/Documents/TexDay/TexDay 202004/TexDayAvril2020/force-app/main/default/flexipages",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1580470212951,
+            "changeTime": 1580470212951,
+            "contentHash": "059fc417de9d20967abac9534eb27c2835e2b0de"
+        }
+    ],
+    [
+        "/Users/lucileincardona/Documents/TexDay/TexDay 202004/TexDayAvril2020/force-app/main/default/applications",
+        {
+            "state": "u",
+            "sourcePath": "/Users/lucileincardona/Documents/TexDay/TexDay 202004/TexDayAvril2020/force-app/main/default/applications",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1580470212953,
+            "changeTime": 1580470212953,
+            "contentHash": "0e6c3180ffd8ebb043a0b8f5a54fad28187fbc3a"
+        }
+    ],
+    [
+        "/Users/lucileincardona/Documents/TexDay/TexDay 202004/TexDayAvril2020/force-app/main/default/contentassets",
+        {
+            "state": "u",
+            "sourcePath": "/Users/lucileincardona/Documents/TexDay/TexDay 202004/TexDayAvril2020/force-app/main/default/contentassets",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 128,
+            "modifiedTime": 1580470212957,
+            "changeTime": 1580470212957,
+            "contentHash": "4dfb74aa1eb3b73072502adb5378b61d082b0699"
+        }
+    ],
+    [
+        "/Users/lucileincardona/Documents/TexDay/TexDay 202004/TexDayAvril2020/force-app/main/default/appMenus",
+        {
+            "state": "u",
+            "sourcePath": "/Users/lucileincardona/Documents/TexDay/TexDay 202004/TexDayAvril2020/force-app/main/default/appMenus",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1580470212959,
+            "changeTime": 1580470212959,
+            "contentHash": "7c65d70563206b380e20367663fe2cc611131a2d"
+        }
+    ]
+]
